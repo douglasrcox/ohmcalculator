@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OhmCalc": {
+      "commandName": "Project",
+      "commandLineArgs": "violet blue green yellow"
+    }
+  }
+}

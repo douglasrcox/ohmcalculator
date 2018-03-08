@@ -1,0 +1,16 @@
+D:\My Documents\Desktop\OhmCalc\OhmValueCalculatorTests\obj\Debug\netcoreapp2.0\OhmValueCalculatorTests.csprojResolveAssemblyReference.cache
+D:\My Documents\Desktop\OhmCalc\OhmValueCalculatorTests\obj\Debug\netcoreapp2.0\OhmValueCalculatorTests.csproj.CoreCompileInputs.cache
+D:\My Documents\Desktop\OhmCalc\OhmValueCalculatorTests\obj\Debug\netcoreapp2.0\OhmValueCalculatorTests.AssemblyInfoInputs.cache
+D:\My Documents\Desktop\OhmCalc\OhmValueCalculatorTests\obj\Debug\netcoreapp2.0\OhmValueCalculatorTests.AssemblyInfo.cs
+D:\My Documents\Desktop\OhmCalc\OhmValueCalculatorTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\My Documents\Desktop\OhmCalc\OhmValueCalculatorTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\My Documents\Desktop\OhmCalc\OhmValueCalculatorTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\My Documents\Desktop\OhmCalc\OhmValueCalculatorTests\bin\Debug\netcoreapp2.0\OhmValueCalculatorTests.deps.json
+D:\My Documents\Desktop\OhmCalc\OhmValueCalculatorTests\bin\Debug\netcoreapp2.0\OhmValueCalculatorTests.runtimeconfig.json
+D:\My Documents\Desktop\OhmCalc\OhmValueCalculatorTests\bin\Debug\netcoreapp2.0\OhmValueCalculatorTests.runtimeconfig.dev.json
+D:\My Documents\Desktop\OhmCalc\OhmValueCalculatorTests\bin\Debug\netcoreapp2.0\OhmValueCalculatorTests.dll
+D:\My Documents\Desktop\OhmCalc\OhmValueCalculatorTests\bin\Debug\netcoreapp2.0\OhmValueCalculatorTests.pdb
+D:\My Documents\Desktop\OhmCalc\OhmValueCalculatorTests\obj\Debug\netcoreapp2.0\OhmValueCalculatorTests.dll
+D:\My Documents\Desktop\OhmCalc\OhmValueCalculatorTests\obj\Debug\netcoreapp2.0\OhmValueCalculatorTests.pdb
+D:\My Documents\Desktop\OhmCalc\OhmValueCalculatorTests\bin\Debug\netcoreapp2.0\OhmCalc.dll
+D:\My Documents\Desktop\OhmCalc\OhmValueCalculatorTests\bin\Debug\netcoreapp2.0\OhmCalc.pdb

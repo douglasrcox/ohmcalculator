@@ -1,0 +1,11 @@
+D:\My Documents\Desktop\OhmCalc\OhmCalc\bin\Debug\netcoreapp2.0\OhmCalc.deps.json
+D:\My Documents\Desktop\OhmCalc\OhmCalc\bin\Debug\netcoreapp2.0\OhmCalc.runtimeconfig.json
+D:\My Documents\Desktop\OhmCalc\OhmCalc\bin\Debug\netcoreapp2.0\OhmCalc.runtimeconfig.dev.json
+D:\My Documents\Desktop\OhmCalc\OhmCalc\bin\Debug\netcoreapp2.0\OhmCalc.dll
+D:\My Documents\Desktop\OhmCalc\OhmCalc\bin\Debug\netcoreapp2.0\OhmCalc.pdb
+D:\My Documents\Desktop\OhmCalc\OhmCalc\obj\Debug\netcoreapp2.0\OhmCalc.csproj.CoreCompileInputs.cache
+D:\My Documents\Desktop\OhmCalc\OhmCalc\obj\Debug\netcoreapp2.0\OhmCalc.AssemblyInfoInputs.cache
+D:\My Documents\Desktop\OhmCalc\OhmCalc\obj\Debug\netcoreapp2.0\OhmCalc.AssemblyInfo.cs
+D:\My Documents\Desktop\OhmCalc\OhmCalc\obj\Debug\netcoreapp2.0\OhmCalc.dll
+D:\My Documents\Desktop\OhmCalc\OhmCalc\obj\Debug\netcoreapp2.0\OhmCalc.pdb
+D:\My Documents\Desktop\OhmCalc\OhmCalc\obj\Debug\netcoreapp2.0\OhmCalc.csprojResolveAssemblyReference.cache
